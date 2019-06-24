@@ -1,0 +1,12 @@
+.stuff {
+	margin-left: 30px;
+}
+#foot_bottom {
+
+    position: fixed;
+
+    width: 100%;
+
+    bottom: 0px;
+
+}
